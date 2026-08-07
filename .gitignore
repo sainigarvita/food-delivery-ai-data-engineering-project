@@ -27,6 +27,7 @@ logs/
 # dbt
 target/
 dbt_packages/
-
+# dbt profiles (contains credentials)
+zomato/profiles.yml
 # Airflow
 airflow/logs/
