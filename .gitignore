@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# Data files
+data/
+data 2/
+data 3/
+*.csv
+*.parquet
+
+# Logs
+logs/
+
+# Mac files
+.DS_Store
+
+# dbt
+target/
+dbt_packages/
+
+# Airflow
+airflow/logs/
